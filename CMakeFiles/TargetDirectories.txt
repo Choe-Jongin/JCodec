@@ -1,0 +1,3 @@
+/home/jonginchoe/JCodec/JEncoder/CMakeFiles/rebuild_cache.dir
+/home/jonginchoe/JCodec/JEncoder/CMakeFiles/JEncoder.dir
+/home/jonginchoe/JCodec/JEncoder/CMakeFiles/edit_cache.dir

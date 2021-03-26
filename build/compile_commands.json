@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/jonginchoe/JCodec/JEncoder/build",
+  "command": "/usr/bin/g++-7   -isystem /usr/local/include/opencv4   -pthread -g   -std=gnu++11 -o CMakeFiles/JEncoder.dir/JEncoder.cpp.o -c /home/jonginchoe/JCodec/JEncoder/JEncoder.cpp",
+  "file": "/home/jonginchoe/JCodec/JEncoder/JEncoder.cpp"
+},
+{
+  "directory": "/home/jonginchoe/JCodec/JEncoder/build",
+  "command": "/usr/bin/g++-7   -isystem /usr/local/include/opencv4   -pthread -g   -std=gnu++11 -o CMakeFiles/JEncoder.dir/main.cpp.o -c /home/jonginchoe/JCodec/JEncoder/main.cpp",
+  "file": "/home/jonginchoe/JCodec/JEncoder/main.cpp"
+}
+]
