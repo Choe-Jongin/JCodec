@@ -1,1 +1,1 @@
-this project is codec for huge SSD media server!!
+this project is codec for huge SSD media server!!!
